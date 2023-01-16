@@ -1,5 +1,5 @@
 Hi, I am Manavi Nair. I like learning new technologies and working on various projects. I am currently pursuing Master's in Computer Applications. 
-I have worked on two personal personal projects:
+I have worked on the following projects:
 1) Document Sentiment Analysis
 2) Trust based Sentiment Analysis on Social Network
 3) Classification Model for classifying the side effects of drugs
